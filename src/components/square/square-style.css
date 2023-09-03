@@ -1,0 +1,21 @@
+.square {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    overflow: hidden;
+}
+
+.light {
+    background-color: rgb(215, 200, 188);
+}
+
+/*old light square: rgb(215, 200, 188) */
+
+.dark {
+    background-color:#7a4642
+}
+
+/* old dark square: #4a2c2a */

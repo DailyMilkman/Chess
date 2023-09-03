@@ -1,0 +1,13 @@
+.board {
+    
+    margin: 0 auto; /** centered */
+    margin-top: 2rem;
+    border-radius: 12px;
+    overflow: hidden;
+    width: 90vh;
+    height: 90vh;
+    display: grid;
+    grid-template-columns: repeat(8, 1fr);
+    grid-template-rows: repeat(8, 1fr);
+    
+}
